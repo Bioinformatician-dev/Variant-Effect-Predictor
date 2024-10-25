@@ -9,7 +9,9 @@ Users can input variants and get predictions about their potential impacts, supp
 Install Streamlit and any necessary libraries:
 
 ```bash
+
   pip install streamlit pandas numpy requests biopython
+  pip install -r requirements.txt
 
 ```
 ## Create a Project Directory
