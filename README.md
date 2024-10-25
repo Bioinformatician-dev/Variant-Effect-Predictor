@@ -1,5 +1,3 @@
-# Variant-Effect-Predictor
-
 # Variant Effect Predictor
 Develop a tool that predicts the effect of genetic variants on proteins.
 ## Features: 
