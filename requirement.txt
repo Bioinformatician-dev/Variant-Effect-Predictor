@@ -1,0 +1,5 @@
+streamlit==1.24.0
+pandas==2.0.3
+numpy==1.24.2
+requests==2.31.0
+biopython==1.81
